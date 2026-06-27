@@ -4,6 +4,7 @@ Junior Python-разработчик из Москвы. Делаю Telegram- и 
 
 - 🔭 Один из моих ботов работает в продакшене — им пользуются **10 000+ человек**.
 - 🌱 Углубляю Python, бэкенд и работу с API.
+- ⚙️ Разрабатываю с помощью ИИ-инструментов и интегрирую LLM в продукты (в одном из ботов — Google Gemini).
 - 💬 Открыт к стажировкам и junior-позициям.
 
 ### Стек
@@ -17,6 +18,8 @@ Junior Python-разработчик из Москвы. Делаю Telegram- и 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini%20API-8E75B2?logo=googlegemini&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-412991?logo=openai&logoColor=white)
 
 ### Связаться
 
